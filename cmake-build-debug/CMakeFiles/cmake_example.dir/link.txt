@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmake_example.dir/objects.a
+C:\PROGRA~1\mingw64\bin\ar.exe cr CMakeFiles\cmake_example.dir/objects.a @CMakeFiles\cmake_example.dir\objects1.rsp
+C:\PROGRA~1\mingw64\bin\G__~1.EXE  -g  -shared -o cmake_example.cp38-win_amd64.pyd -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\cmake_example.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\cmake_example.dir\linklibs.rsp
